@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football Simulator</string>
+    <string name="title_activity_display_schedule">DisplaySchedule</string>
+    <string name="title_schedule">Wedstrijdschema</string>
+    <string name="welcome">Welkom bij Football Simulator!</string>
+    <string name="startSimulation">Start Simulatie</string>
+</resources>
